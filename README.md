@@ -1,3 +1,21 @@
+
+
+
+
+Flow of Next JS:
+
+![Blank diagram](https://user-images.githubusercontent.com/59247235/146676300-ebbdae7c-220e-43a2-b4ff-90de06a22d3a.png)
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
