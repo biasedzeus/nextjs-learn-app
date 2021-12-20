@@ -7,6 +7,14 @@ Flow of Next JS:
 ![Blank diagram](https://user-images.githubusercontent.com/59247235/146676300-ebbdae7c-220e-43a2-b4ff-90de06a22d3a.png)
 
 
+# Notes TO Remember
+
+## Routing
+
+Pages are associated with  a route based on their filename.
+
+
+To add a custom 404 page => add a file named 404.js in pages folder.
 
 
 
