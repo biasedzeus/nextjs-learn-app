@@ -17,8 +17,10 @@ Pages are associated with  a route based on their filename.
 To add a custom 404 page => add a file named 404.js in pages folder.
 
 
+## pre rendering 
 
-
+NextJS : pre-rendering by default.
+ 
 
 
 
