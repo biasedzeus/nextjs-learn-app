@@ -1,29 +1,11 @@
-import Link from "next/link";
-import React from "react";
-import { useRouter } from "next/router";
-const Home = () => {
-  const router = useRouter();
 
-  function handleClick() {
-    console.log("placing order");
-    // router.push("/products/");
-    router.replace("/products/")
-  }
+const Home = () => {
+ 
 
   return (
     <div>
-      <h1>Home</h1>
-      <Link href="/blog">
-        <a>Blog</a>
-      </Link>
-      <Link href="/products">
-        <a>products</a>
-      </Link>
-      <Link href="/docs">
-        <a>Docs</a>
-      </Link>
+    <h1>Next Js SG pre-rendering with data</h1>
 
-      <button onClick={handleClick}>Place Order</button>
     </div>
   );
 };
